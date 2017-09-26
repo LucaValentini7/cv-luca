@@ -1,7 +1,7 @@
 #menu {
 	float: left;
 	margin-top: 1%
-	margin-right:20%;
+	margin-right:95%;
 	margin-left: 5%;
 	padding: 20px 30px 30px 30px;
 	clear: both;
@@ -13,6 +13,10 @@
 #imagen_perfil {
 	border: 1px solid black;
 	clear: both;
+	margin-right: 95%;
+	margin-left: 1%;
+	
+
 }
 #botones {
 	list-style: none;
@@ -43,6 +47,7 @@ color: #333333;
 
 }
 #contenido {
+	margin-left: 10%;
 
 }
 div#principal ul li {
