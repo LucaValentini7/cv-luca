@@ -1,0 +1,92 @@
+#menu {
+	float: left;
+	margin-top: 1%
+	margin-right:20%;
+	margin-left: 5%;
+	padding: 20px 30px 30px 30px;
+	clear: both;
+	border-radius: 25px 25px 25px 25px;
+   -moz-border-radius: 25px 25px 25px 25px;
+   -webkit-border-radius: 25px 25px 25px 25px;
+   position: fixed;
+}
+#imagen_perfil {
+	border: 1px solid black;
+	clear: both;
+}
+#botones {
+	list-style: none;
+}
+.boton {
+	text-decoration: none;
+	color: black;
+}
+.botones {
+		font-size: 20px;
+	content: 10px 6px 1px 0px;
+	padding-right: 4px;
+	margin-top:1%;
+	border-radius: 2px 2px 2px 2px;
+-moz-border-radius: 2px 2px 2px 2px;
+-webkit-border-radius: 2px 2px 2px 2px;
+border: 1px solid #000000;
+background-color: #f5b80e;
+color: #333333;
+}
+#boton_1 {
+
+}
+#boton_2 {
+
+}
+#boton_3 {
+
+}
+#contenido {
+
+}
+div#principal ul li {
+  color: black;
+}
+
+div#principal p {
+  color: black;
+}
+.titulo {
+  font-size:30px;
+  color: #333333;
+  border-bottom: 3px solid #333333;;
+  padding-bottom:5px;
+}
+#Nombre {
+	font-size:32px;
+ 	color: #99A805;
+}
+.dato_personal {
+	padding-top: 5px;
+	padding-bottom: 8px;
+	padding-right: 1px;
+	border-bottom:1px solid #a65959;
+	list-style: none;
+}
+.subtitulo {
+	color:#666666;
+	font-size: 18px;
+}
+.formato {
+	margin:1% 5% 1% 30%;
+	padding: 20px 50px 30px 50px;
+	background-color: white;
+	content:20px;
+	border-radius: 25px 25px 25px 25px;
+    -moz-border-radius: 25px 25px 25px 25px;
+    -webkit-border-radius: 25px 25px 25px 25px;
+	border: 1px solid #000000;
+
+}
+ul {
+	padding: 0px;
+}
+body {
+  background-color: #666666;
+}
